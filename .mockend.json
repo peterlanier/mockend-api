@@ -1,0 +1,20 @@
+{
+    "id": "string",
+    "name": "string",
+    "speakers": "string",
+    "slug": "string",
+    "abstract": "string",
+    "description": "string",
+    "releaseDate": "date",
+    "startDate": "date",
+    "endDate": "date",
+    "sponsors": "string",
+    "tags": "string",
+    "icon": "string",
+    "maxMembers": "string",
+    "preRoll": "string",
+    "videoType": "string",
+    "videoId": "string",
+    "externalUrl": "string",
+    "active": "boolean"
+}
